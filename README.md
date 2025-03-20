@@ -1,12 +1,12 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Hostel Management Application**
+- 🔭 I’m currently working on **Hexaware Technologies**
 
-- 🌱 I’m currently learning **Flutter,(.NET),Networking**
+- 🌱 I’m currently learning **React,GraphQL,NodeJS**
 
 - 🤝 I’m looking for help with **Full Stack development**
 
-- 💬 Ask me about **C,C++,Python**
+- 💬 Ask me about **C#,ASP.Netcore Web API,Angular**
 
 - 📫 How to reach me **asksrinathnss@gmail.com**
 
